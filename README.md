@@ -12,4 +12,4 @@ Few disclaimers before proceding:
 
 | Class XI |
 | - |
-| [Click here](https://github.com/GauthamVarmaK/CBSE-XI-XII-Record-Programs/Class%20XI) |
+| [Click here](https://github.com/GauthamVarmaK/CBSE-XI-XII-Record-Programs/tree/main/Class%20XI) |
